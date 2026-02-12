@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project demonstrates how to display an 8-bit binary value using GPIO pins on the **STM32F411RE (Nucleo Board)**.
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/59710615-3c09-477d-acf6-09950b5605fb" />
 
 The 8-bit value is split into:
 - **4AL (Lower Nibble)** → Displayed on 4 LEDs  
