@@ -47,6 +47,47 @@ Binary = `1010 1011`
 
 ---
 
-## 📂 Project Structure
+
+
+---
+
+## 🚀 How to Run
+
+1. Open project in STM32CubeIDE / Keil
+2. Build the project
+3. Connect STM32F411RE board
+4. Flash the program
+5. Observe LED binary output
+
+---
+
+## 📖 Learning Outcomes
+
+- Understanding STM32 GPIO registers
+- Bitwise shift operations (`>>`, `<<`)
+- Masking using `&`
+- Splitting 8-bit data into nibbles
+- Embedded project structuring
+
+---
+
+## 🔧 Future Improvements
+
+- Add UART input to change values dynamically
+- Add push-button to increment value
+- Add timer-based automatic counting
+- Convert to 7-segment display output
+
+---
+
+## 👨‍💻 Author
+
+Huday Kiran  
+Embedded Systems Engineer (Training – Vector Institute)
+
+---
+
+⭐ If you found this useful, consider giving this repository a star!
+
 
 
